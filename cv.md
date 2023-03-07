@@ -39,9 +39,9 @@ const makeFormEnabled = () => {
 };
 
 ### Work experience
-* https://github.com/NatashaStr/smart-device
-* https://github.com/NatashaStr/Drink2Go
-* https://github.com/NatashaStr/1934365-cat-energy-25
+* [https://github.com/NatashaStr/smart-device](https://github.com/NatashaStr/smart-device)
+* [https://github.com/NatashaStr/Drink2Go](https://github.com/NatashaStr/Drink2Go)
+* [https://github.com/NatashaStr/1934365-cat-energy-25](https://github.com/NatashaStr/1934365-cat-energy-25)
 
 ### Education and courses:
 * HTML & CSS. Professional Website Coding
